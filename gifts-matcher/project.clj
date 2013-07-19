@@ -6,6 +6,5 @@
   :dependencies [
                  [org.clojure/clojure "1.5.1"]
                  [org.clojure/data.csv "0.1.2"]
-                 [org.clojure/tools.cli "0.2.2"]
                  ]
   :main gifts.core)
